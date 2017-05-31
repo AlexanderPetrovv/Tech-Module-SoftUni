@@ -1,3 +1,4 @@
 Exercise for Git and GitHub with Tortoise
 
-Doing changes in master branch with Bash as required
+Doing changes in master branch with Bash as required.
+Some changes required for the merge branch with Bash exercises.
