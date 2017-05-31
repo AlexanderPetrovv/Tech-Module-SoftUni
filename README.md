@@ -1,4 +1,4 @@
 # Tech-Module-SoftUni
 My programming experience in Softuni Tech Module
 
-Tech Module includes two section - Programming Fundamentals and Software Technologies.
+Tech Module includes two section - Programming Fundamentals and Software Technologies. C# is being used as primary language for the course.
