@@ -1,1 +1,3 @@
 Exercise for Git and GitHub with Tortoise
+
+Some changes required for the merge branch with Bash exercises.
