@@ -1,1 +1,3 @@
 Exercise for Git and GitHub with Tortoise
+
+Doing changes in master branch with Bash as required
